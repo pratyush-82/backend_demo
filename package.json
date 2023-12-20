@@ -1,0 +1,15 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "a new basic backend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pratyush",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
